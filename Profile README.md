@@ -3,7 +3,7 @@
 BSCS Student 
 Studying Web Development and Machine Learning
 Passionate about learning new technologies
-## 🚀 What I'm Working On
+## What I'm Working On
 Building web applications using React
 Learning machine learning concepts
 Working on university projects
@@ -24,7 +24,5 @@ Build real-world projects
 Solving coding problems 
 Exploring new technologies 
 Learning design tools (Figma) 
-Watching tech-related content 📺
+Watching tech-related content 
 
-## 📫 Contact
-- LinkedIn: (add your link here)
